@@ -5,8 +5,9 @@ A new flutter shop app which makes it easy for customers to find and buy the pro
 <ul>
   <ol>
     Flutter
+  </ol>
+    <ol>
     Bloc
-    REST Apis
   </ol>
 </ul>
 
