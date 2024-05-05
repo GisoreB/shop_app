@@ -1,6 +1,14 @@
 # shop_app
 
-A new flutter shop app which makes it easy for customers to find and buy the products they need.
+
+A new flutter shop app which makes it easy for customers to find and buy the products they need.<br>Tech stack:
+<ul>
+  <ol>
+    Flutter
+    Bloc
+    REST Apis
+  </ol>
+</ul>
 
 ## Screenshots
 
