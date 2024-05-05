@@ -4,10 +4,13 @@
 A new flutter shop app which makes it easy for customers to find and buy the products they need.<br>Tech stack:
 <ul>
   <ol>
-    Flutter
+    #Flutter
   </ol>
     <ol>
-    Bloc
+    #Bloc
+  </ol>
+    <ol>
+    #REST Apis
   </ol>
 </ul>
 
